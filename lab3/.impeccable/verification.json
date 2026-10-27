@@ -1,0 +1,26 @@
+[
+  {
+    "name": "analyze",
+    "command": "flutter analyze",
+    "exitCode": 0,
+    "output": "\nNo issues found! (ran in 1.9s)\n"
+  },
+  {
+    "name": "tests",
+    "command": "flutter test --reporter expanded",
+    "exitCode": 0,
+    "output": "00:00 +0: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: responsive layout at 320 dp\n00:00 +1: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: responsive layout at 320 dp\n00:00 +2: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: responsive layout at 390 dp\n00:00 +3: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: responsive layout at 599 dp\n00:00 +4: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: responsive layout at 600 dp\n00:00 +5: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: responsive layout at 839 dp\n00:00 +6: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: responsive layout at 840 dp\n00:00 +7: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: responsive layout at 1280 dp\n00:00 +8: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: card opens detail and system back returns to grid\n00:00 +9: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: wide selection updates the detail without pushing a route\n00:01 +10: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: search finds a destination and opens it\n00:01 +11: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: search reports no results and clearing restores the list\n00:01 +12: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: favorites can be added, filtered, and removed\n00:01 +13: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: add location opens a working saved-place selector\n00:01 +14: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: dark theme and large text at 320 dp\n00:01 +15: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: dark theme and large text at 700 dp\n00:01 +16: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: dark theme and large text at 840 dp\n00:01 +17: /home/jmlu/MySecretBase/Mobile-App-Development/lab3/test/widget_test.dart: dark theme and large text at 1280 dp\n00:01 +18: All tests passed!\n"
+  },
+  {
+    "name": "android",
+    "command": "flutter build apk --debug --no-pub",
+    "exitCode": 0,
+    "output": "Running Gradle task 'assembleDebug'...                              3.7s\n✓ Built build/app/outputs/flutter-apk/app-debug.apk\n"
+  },
+  {
+    "name": "web",
+    "command": "flutter build web --no-pub",
+    "exitCode": 0,
+    "output": "\nWasm dry run succeeded. Consider building and testing your application with the `--wasm` flag. See docs for more info: https://docs.flutter.dev/platform-integration/web/wasm\nUse --no-wasm-dry-run to disable these warnings.\nFont asset \"CupertinoIcons.ttf\" was tree-shaken, reducing it from 257628 to 1472 bytes (99.4% reduction). Tree-shaking can be disabled by providing the --no-tree-shake-icons flag when building your app.\nFont asset \"MaterialIcons-Regular.otf\" was tree-shaken, reducing it from 1645184 to 9692 bytes (99.4% reduction). Tree-shaking can be disabled by providing the --no-tree-shake-icons flag when building your app.\nCompiling lib/main.dart for the Web...                             15.6s\n✓ Built build/web\n"
+  }
+]

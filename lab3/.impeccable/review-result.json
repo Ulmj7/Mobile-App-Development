@@ -1,0 +1,28 @@
+{
+  "disposition": "ship",
+  "scope": "Reviewed native Android lab UI",
+  "reviewer": "Independent impeccable_finish_reviewer agent",
+  "materialFindings": [],
+  "captures": [
+    ".impeccable/review/phone.png",
+    ".impeccable/review/phone-detail.png",
+    ".impeccable/review/medium.png",
+    ".impeccable/review/expanded.png",
+    ".impeccable/review/expanded-khuvsgul.png",
+    ".impeccable/review/drawer.png",
+    ".impeccable/review/expanded-dark-large-text.png",
+    ".impeccable/review/phone-dark-large-text.png"
+  ],
+  "references": [
+    ".impeccable/review/reference-000.jpg",
+    ".impeccable/review/reference-001.jpg",
+    ".impeccable/review/reference-002.jpg",
+    ".impeccable/review/reference-003.jpg"
+  ],
+  "limits": [
+    "One Android emulator configured for phone, medium, and expanded display sizes.",
+    "Licensed photographs differ from reference viewpoints and crops.",
+    "Hardware performance, TalkBack, iOS, and live browser rendering were not reviewed."
+  ],
+  "packaging": "Final builds also include Flutter's standard Cupertino icon font; reference screens continue to use Material icons."
+}
