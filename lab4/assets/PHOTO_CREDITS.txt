@@ -1,0 +1,87 @@
+Travel MN — photograph attribution
+
+Photographs retain the licenses listed below.
+Displayed with cover cropping; no generated imagery.
+
+assets/images/terelj.jpg
+File:Turtle Rock Mongolia.jpg
+Photo: Vidor at English Wikipedia
+Date: 21 November 2006 (original upload date)
+Source: https://commons.wikimedia.org/wiki/File:Turtle_Rock_Mongolia.jpg
+License: Public domain — https://creativecommons.org/publicdomain/mark/1.0/
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/khuvsgul.jpg
+File:KhovsgolNuur.jpg
+Photo: User:Doron
+Date: 2000-07
+Source: https://commons.wikimedia.org/wiki/File:KhovsgolNuur.jpg
+License: CC BY-SA 3.0 — http://creativecommons.org/licenses/by-sa/3.0/
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/khongor.jpg
+File:Khongoryn Els 10.jpg
+Photo: Bernard Gagnon
+Date: 2023-07-07
+Source: https://commons.wikimedia.org/wiki/File:Khongoryn_Els_10.jpg
+License: CC0 — http://creativecommons.org/publicdomain/zero/1.0/deed.en
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/kharkhorin.jpg
+File:Zachodnia część muru klasztoru Erdene Dzuu.jpg
+Photo: Marcin Konsek
+Date: 2010-07-16 05:48:40
+Source: https://commons.wikimedia.org/wiki/File:Zachodnia_cz%C4%99%C5%9B%C4%87_muru_klasztoru_Erdene_Dzuu.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/altai.jpg
+File:Altai Tavan Bogd - Potanin glacier - panoramio.jpg
+Photo: Mongolia Expeditions…
+Date: Taken on 20 January 2007
+Source: https://commons.wikimedia.org/wiki/File:Altai_Tavan_Bogd_-_Potanin_glacier_-_panoramio.jpg
+License: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/orkhon.jpg
+File:Ulaan Tsutgalan Waterfall.jpg
+Photo: Bernard Gagnon
+Date: 2023-07-03
+Source: https://commons.wikimedia.org/wiki/File:Ulaan_Tsutgalan_Waterfall.jpg
+License: CC0 — http://creativecommons.org/publicdomain/zero/1.0/deed.en
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/tsagaan_suvarga.jpg
+File:Tsagaan Suvarga Limestone Cliffs, Mongolia.jpg
+Photo: Ujin bold
+Date: 2012-10-09
+Source: https://commons.wikimedia.org/wiki/File:Tsagaan_Suvarga_Limestone_Cliffs,_Mongolia.jpg
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/khustai.jpg
+File:Mongolia 060.jpg
+Photo: Susynoid
+Date: 2007-09
+Source: https://commons.wikimedia.org/wiki/File:Mongolia_060.jpg
+License: Public domain — https://creativecommons.org/publicdomain/mark/1.0/
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/terkhiin.jpg
+File:Terkhiin Tsagaan Lake 01.jpg
+Photo: Bernard Gagnon
+Date: 2023-06-30
+Source: https://commons.wikimedia.org/wiki/File:Terkhiin_Tsagaan_Lake_01.jpg
+License: CC0 — http://creativecommons.org/publicdomain/zero/1.0/deed.en
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/yolyn_am.jpg
+File:Geierschlucht Yolyn Am.jpg
+Photo: Bohndorf Film-Team
+Date: 2018-03-30
+Source: https://commons.wikimedia.org/wiki/File:Geierschlucht_Yolyn_Am.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+Changes: Downloaded Wikimedia preview, proportionally resized to at most 1600 pixels, and recompressed as JPEG; displayed with cover cropping.
+
+assets/images/placeholder.jpg
+Not a photograph: a simple illustration (gradient sky, sun, two ridges) generated for this project with Python/Pillow. It is shown only for destinations a user adds without a picture. Released under CC0 — https://creativecommons.org/publicdomain/zero/1.0/
